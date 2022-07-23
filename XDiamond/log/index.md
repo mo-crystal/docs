@@ -15,7 +15,7 @@
 ```C++
 XDiamond2D::Logln("This is a line of log.");
 XDiamond2D::Warningln("This is a line of warning.");
-XDiamond2D::Errorln("This is a line of error");
+XDiamond2D::Errorln("This is a line of error.");
 ```
 
 你会得到如下格式的报错信息。
