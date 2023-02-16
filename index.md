@@ -1,5 +1,7 @@
-test doc index 
+# 欢迎来到魔晶图书馆
 
-# Build settings
+这里是魔晶工作室的文档仓库，你可以在这找到我们所有产品的说明书。
 
-theme: slate
+### 已收录的说明书
+
+**[pyrite-go](pyrite/go.md)** - Pyrite 协议的 Golang 实现
